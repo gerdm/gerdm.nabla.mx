@@ -136,3 +136,9 @@ $$
 
 
 {% endkatexmm %}
+
+### Referencias
+
+- Jurafsky, Dan, and James H. Martin. *Speech and Language Processing: an Introduction to Natural Language Processing*, Computational Linguistics, and Speech Recognition. Dorling Kindersley Pvt, Ltd., 2014.
+
+- Russell, Stuart J., and Peter Norvig. _Artificial Intelligence: a Modern Approach_. Pearson, 2021.
